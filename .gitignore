@@ -1,0 +1,28 @@
+# Основные исключения UE5
+Saved/
+Intermediate/
+Binaries/
+Build/
+DerivedDataCache/
+
+# Кэши и временные файлы
+*.sln
+*.opensdf
+*.sdf
+*.VC.db
+*.suo
+*.xcodeproj/
+*.xcworkspace/
+
+# Промежуточные файлы сборки
+*.obj
+*.pch
+*.ilk
+*.log
+*.lib
+*.dll
+*.exe
+
+# Конфиги (кроме основных)
+*.user
+*.backup
